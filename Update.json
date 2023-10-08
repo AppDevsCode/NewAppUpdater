@@ -1,0 +1,10 @@
+{
+  "latestVersion": "1.0",
+  "latestVersionCode": "10",
+  "url": "https://bitbucket.org/SyntaxCode/movieshd/downloads/app-release.apk",
+  "releaseNotes": [
+    "[New] Something New",
+    "[Update] Something Updated",
+    "[Fix] Something Fixed"
+  ]
+}
