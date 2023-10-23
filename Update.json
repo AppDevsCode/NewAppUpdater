@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.0",
-  "latestVersionCode": "10",
+  "latestVersion": "1.1",
+  "latestVersionCode": "20",
   "url": "https://bitbucket.org/SyntaxCode/movieshd/downloads/app-release.apk",
   "releaseNotes": [
-    "[New] Something New",
-    "[Update] Something Updated",
-    "[Fix] Something Fixed"
+    "[New] Added Full Android 14 Support",
+    "[NEW] Added Orientation Continuity For Every Class (Data and the Activity will not be recreated when the device orientation switches from portrait to landscape and vice versa).",
+    "[Update] Updated All External Libs"
   ]
 }
