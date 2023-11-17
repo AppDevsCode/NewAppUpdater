@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.1",
-  "latestVersionCode": "20",
+  "latestVersion": "1.2",
+  "latestVersionCode": "21",
   "url": "https://bitbucket.org/SyntaxCode/movieshd/downloads/app-release.apk",
   "releaseNotes": [
-    "[New] Added Full Android 14 Support",
-    "[NEW] Added Orientation Continuity For Every Class (Data and the Activity will not be recreated when the device orientation switches from portrait to landscape and vice versa).",
+    "[New] Added “API Maintenance” Toasts in Every Call Made to the TMDB API so if any response data is null, the app will show users it’s undergoing maintenance for that specific option/method.",
+    "[NEW] Added Genre NullChecker Which Prevents the App from Crashing If the Data is Empty/Null (as seen recently).",
     "[Update] Updated All External Libs"
   ]
 }
