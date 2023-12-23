@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.2",
-  "latestVersionCode": "21",
+  "latestVersion": "1.4",
+  "latestVersionCode": "22",
   "url": "https://bitbucket.org/SyntaxCode/movieshd/downloads/app-release.apk",
   "releaseNotes": [
-    "[New] Added “API Maintenance” Toasts in Every Call Made to the TMDB API so if any response data is null, the app will show users it’s undergoing maintenance for that specific option/method.",
-    "[NEW] Added Genre NullChecker Which Prevents the App from Crashing If the Data is Empty/Null (as seen recently).",
+    "[FIX] Bug Fixes.",
+    "[FIX] Fixed Several Server Providers And Resolvers.",
     "[Update] Updated All External Libs"
   ]
 }
