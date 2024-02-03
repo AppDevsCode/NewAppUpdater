@@ -1,11 +1,9 @@
 {
-  "latestVersion": "4.5",
-  "latestVersionCode": "45",
+  "latestVersion": "4.6",
+  "latestVersionCode": "46",
   "url": "https://bitbucket.org/SyntaxCode/movieshd/downloads/app-release.apk",
   "releaseNotes": [
     "[FIX] Bug Fixes.",
-    "[FIX] Fixed Several Server Providers And Resolvers.",
-    "[Add] Added New Providers",
     "[Update] Updated All External Libs",
     "[Update] Minor UI Changes"
   ]
