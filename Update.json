@@ -1,10 +1,14 @@
 {
-  "latestVersion": "4.6",
-  "latestVersionCode": "46",
+  "latestVersion": "4.7",
+  "latestVersionCode": "47",
   "url": "https://bitbucket.org/SyntaxCode/movieshd/downloads/app-release.apk",
   "releaseNotes": [
     "[FIX] Bug Fixes.",
     "[Update] Updated All External Libs",
-    "[Update] Minor UI Changes"
+    "[Update] Minor UI Changes",
+    "[Update] Enhanced in-app updater with improved functionality and UI.",
+    "[Update] Added 'Download Only' option for manual update downloads.",
+    "[New] Added Watch Providers (users can now find the streaming option for their desired movie/TV show.",
+    “[New] Users can now change the region and language of the app."
   ]
 }
