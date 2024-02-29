@@ -1,12 +1,12 @@
 {
-  "latestVersion": "4.8",
-  "latestVersionCode": "49",
+  "latestVersion": "4.9",
+  "latestVersionCode": "50",
   "url": "https://bitbucket.org/SyntaxCode/movieshd/downloads/app-release.apk",
   "releaseNotes": [
-    "[Update] Minor UI Adjustments.",
-    "[FIX] Corrected the issue with the 'See All' Episodes Class crashing due to null TMDB language ",
-    "[Update] Made minor tweaks to the Servers and Watch Providers UI.",
-    "[Update] Updated Slider UI in Home Screen",
+    "[Update] Made Minor UI adjustments.",
+    "[Update] Implemented minor color changes.",
+    "[Update] Included the JustWatch attribute in the Servers BottomSheet as per policy requirements.",
+    "[Update] Revamped the Terms Of Services UI.",
     "[FIX] Several Minor Bugs were Fixed."
   ]
 }
