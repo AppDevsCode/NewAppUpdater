@@ -1,12 +1,13 @@
 {
-  "latestVersion": "4.9",
-  "latestVersionCode": "50",
+  "latestVersion": "5.0",
+  "latestVersionCode": "51",
   "url": "https://bitbucket.org/SyntaxCode/movieshd/downloads/app-release.apk",
   "releaseNotes": [
     "[Update] Made Minor UI adjustments.",
-    "[Update] Implemented minor color changes.",
-    "[Update] Included the JustWatch attribute in the Servers BottomSheet as per policy requirements.",
-    "[Update] Revamped the Terms Of Services UI.",
+    "[FIX] Corrected the issue of the New Home Slider not opening the details page upon clicking.",
+    "[FIX] Addressed various memory leaks.",
+    "[NEW] Added support to display all added Movies/TV Shows from the Admin Panel as 'Recently Added' in the app",
+    "[Update] Updated All Ad Networks and External Libraries.",
     "[FIX] Several Minor Bugs were Fixed."
   ]
 }
